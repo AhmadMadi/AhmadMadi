@@ -12,7 +12,7 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend a
 ### 🌱 Open Source
 Planning to dive into open source soon!
 
-### 🌈 About Me
+### 🌟 About Me
 - 🤵 Husband to a beautiful wife
 - 🎬 Movie Buff
 - 🎮 Gamer
