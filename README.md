@@ -6,7 +6,7 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend a
 - **Languages:** JavaScript (React.js, Node.js), Java, Python
 - **Skills:** Backend Engineering, Algorithms, CI/CD, AWS, Git, SQL, NoSQL
 
-### 🚀 Project
+### 🚀 Projects
 - [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo chat application.
 
 ### 🌱 Open Source
