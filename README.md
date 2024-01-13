@@ -1,6 +1,6 @@
 # Hi, I'm Ahmad Madi! 👋
 
-Passionate JavaScript developer, specializing in React.js and Node.js. Currently crafting real-time magic with [ChatNest](link-to-your-chatnest-repo). Backend aficionado with a love for algorithms.
+Passionate JavaScript developer, specializing in React.js and Node.js. Currently crafting real-time magic with [ChatNest](https://www.linkedin.com/in/ahmad-s-madi/). Backend aficionado with a love for algorithms.
 
 ## 💼 Tech Stack
 - **Languages:** JavaScript (React.js, Node.js)
