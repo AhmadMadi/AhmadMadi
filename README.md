@@ -3,14 +3,16 @@
 Passionate JavaScript developer, specializing in React.js and Node.js. Backend aficionado with a love for algorithms.
 
 ### 💼 Tech Stack
-- **Languages:** JavaScript (React.js, Node.js), Java, Python
+- **Languages:** JavaScript (React.js, Node.js), Java
 - **Skills:** Backend Engineering, Algorithms, CI/CD, AWS, Git, SQL, NoSQL
 
 ### 🚀 Projects
-- [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo chat application.
+- [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo realtime chat application
+- [Class Scheduler](https://github.com/AhmadMadi/class-scheduler) [WIP]: A class scheduler algorithm
 
-### 🌱 Open Source
-Planning to dive into open source soon!
+### 🌱 Growth
+- I am currently learning Java + Spring Boot
+- Planning to dive into open source soon!
 
 ### 🌟 About Me
 - 🤵 Husband to a beautiful wife
@@ -19,4 +21,5 @@ Planning to dive into open source soon!
 - 📷 Photography Enthusiast
 
 ### 📬 Let's Connect!
-LinkedIn: [Ahmad Madi](https://www.linkedin.com/in/ahmad-s-madi/)
+- LinkedIn: [Ahmad Madi](https://www.linkedin.com/in/ahmad-s-madi/)
+- Email: ahmadsamimadi@gmail.com
