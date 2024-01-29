@@ -8,7 +8,6 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend a
 
 ### 🚀 Projects
 - [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo realtime chat application
-- [Class Scheduler](https://github.com/AhmadMadi/class-scheduler) [WIP]: A class scheduler algorithm
 
 ### 🌱 Growth
 - I am currently learning Java + Spring Boot
