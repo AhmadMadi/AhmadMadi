@@ -25,4 +25,4 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend e
 
 ***
 
-[![roadmap.sh](https://roadmap.sh/card/tall/645633d405999de060bba540?variant=dark&roadmaps=backend%2Cjavascript)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/645633d405999de060bba540?variant=dark&roadmaps=datastructures-and-algorithms%2Cjavascript%2Cbackend)](https://roadmap.sh)
