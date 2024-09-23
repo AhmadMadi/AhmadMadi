@@ -10,8 +10,8 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend e
 - [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo realtime chat application
 
 ### 🌱 Growth
-- I am currently learning Python
-- Planning to dive into open source soon!
+- I am currently learning Next.js!
+- I'm planning to dive into open source soon!
 
 ### 🌟 About Me
 - 🤵 Husband to a beautiful wife
