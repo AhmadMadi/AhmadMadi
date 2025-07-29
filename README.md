@@ -8,6 +8,7 @@ Passionate JavaScript developer, specializing in React.js and Node.js. Backend e
 
 ### 🚀 Projects
 - [ChatNest](https://github.com/AhmadMadi/ChatNest): A demo realtime chat application
+- [MenuDash](https://menudash.io): A modern, full-stack web application that transforms traditional restaurant menus into interactive digital experiences.
 
 ### 🌟 About Me
 - 🤵 Husband to a beautiful wife
